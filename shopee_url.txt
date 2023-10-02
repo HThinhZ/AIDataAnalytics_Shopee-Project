@@ -1,0 +1,2 @@
+1 - get_shops?category_id=11035567&limit=23&offset=0: 
+https://shopee.vn/api/v4/official_shop/get_shops?category_id=11035567&limit=23&offset=0

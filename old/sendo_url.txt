@@ -1,0 +1,2 @@
+ajax-deal/
+rating?page=1&limit=10&sort=review_score&v=2&star=all
