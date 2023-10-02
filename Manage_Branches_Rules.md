@@ -8,3 +8,6 @@ Tạo branch với quy tắc: **(Name)-(Tên_Task)**
 
 Ví dụ: Thinh-CrawlData
 
+## 3. Quy tắc merge code: 
+Cài đặt quy định merge code trong Github: 
+Đó là chỉ khi có sự đồng ý của 1 thành viên khác trong nhóm
