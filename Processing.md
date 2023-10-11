@@ -13,7 +13,7 @@
 
 | Date        | Task                       |  Content                       | Status/Trouble                     |Execution time | 
 | ------------|:--------------------------:|:------------------------------:|:----------------------------------:|:-------------:|
-| 11/10/2023  | Task 1: Crawl Data         |  Using Selenium to crawl data  | Processing/Avoid detecting bot     |       0h      |
+| 11/10/2023  | Task 1: Crawl Data         |  Using Selenium to crawl data: Crawl multiple pages and crawl basic title, link, default price, discount price of each items   | Processing/Avoid detecting bot     |       3h      |
 
 ## Quan's Processing
 
