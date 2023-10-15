@@ -2,13 +2,19 @@
 
 ## Task: 
 
-| Task                       |   Content                                                                                                  | 
-|:--------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| Task 1: Crawl Data         |  Using crawl data tool like (Selenium, scrapy,...) or methods like requests to crawl data from Shopee      | 
-| Task 2: Store Data         |  Using data management system to store data like MongoDB,...                                               |
-| Task 3: Preprocess Data    |  Using Jupiter Notebook,...                                                                                |  
-| Task 4: Analize Data       |  Using PowerBI,....                                                                                        |
+| Task                       |   Content                                                                                                  | Assign |
+|:--------------------------:|:----------------------------------------------------------------------------------------------------------:|:-----: |
+| Task 1: Crawl Data         |  Using crawl data tool like (Selenium, scrapy,...) or methods like requests to crawl data from Shopee      | Thinh, Hoai  |
+| Task 2: Automatic process data      | Using AirFlow to automatically crawl data                                                         | Thinh  |
+| Task 3: Store Data         |  Using data management system to store data like MongoDB                                                   | Thinh, Luu    |
+| Task 4: Preprocess Data    |  Using file Python                                                                                         |  Quan, Luu |
+| Task 5: Analyze data       | Build basic model to analyze some problems                                                                 |   All      |
+| Task 6: Visuallize Data    |  Using PowerBI                                                                                             | Quan, Hoai |
 
+## Note: 
+1. 2-3 days, each candidate pushes commit about their processing of them in these day.
+
+2. If not doing anything, you will write not doing.
 ## Thinh's Processing
 
 | Date        | Task                       |  Content                       | Status/Trouble                     |Execution time | 
