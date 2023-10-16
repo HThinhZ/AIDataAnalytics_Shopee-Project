@@ -19,6 +19,7 @@
 
 | Date        | Task                       |  Content                       | Status/Trouble                     |Execution time | 
 | ------------|:--------------------------:|:------------------------------:|:----------------------------------:|:-------------:|
+| 16/10/2023| Task 3 Preprocess data| Using jupiter| No| No|
 
 
 ## Hoai's Processing
