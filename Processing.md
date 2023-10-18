@@ -15,11 +15,17 @@
 1. 2-3 days, each candidate pushes commit about their processing of them in these day.
 
 2. If not doing anything, you will write not doing.
+
+3. Time start: 16/10/2023
 ## Thinh's Processing
 
 | Date        | Task                       |  Content                       | Status/Trouble                     |Execution time | 
 | ------------|:--------------------------:|:------------------------------:|:----------------------------------:|:-------------:|
 | 11/10/2023  | Task 1: Crawl Data         |  Using Selenium to crawl data: Crawl multiple pages and crawl basic title, link, default price, discount price of each items   | Processing/Avoid detecting bot     |       3h      |
+| 16/10/2023  | Not doing       |  Busy in deadline |  Not doing     |       0h      |
+| 17/10/2023  | Not doing         |  Busy in deadline    |  Not doing     |      0h    |
+| 18/10/2023  | Not doing        |  Busy in deadline    |  Not doing     |       0h      |
+
 
 ## Quan's Processing
 
