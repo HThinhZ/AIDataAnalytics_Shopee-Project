@@ -9,9 +9,9 @@ NEXT_PAGE_BUTTON = "/html/body/div[1]/div/div[2]/div/div/div/div[2]/div/div[3]/d
 ## URL
 SHOPEE_LOGIN_URL = "https://shopee.vn/buyer/login"
 
-TEST_URL = "https://shopee.vn/sp.btw2?page=0&sortBy=pop"
+TEST_URL = "https://shopee.vn/sp.btw2?page=0&sortBy=ctime"
 ## Class name:
-TITLE_CLASS_NAME = ".shop-search-result-view__item .NxFDlV"
+TITLE_CLASS_NAME = ".shop-search-result-view__item ._4rXZss"
 TITLE_LINK_CLASS_NAME = ".shop-search-result-view__item [href]"
 DEFAULT_PRICE_CLASS_NAME =".Y3DvsN"
 DISCOUNT_PRICE_CLASS_NAME = ".pqTWkA"
