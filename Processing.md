@@ -35,6 +35,7 @@
 | Date        | Task                       |  Content                       | Status/Trouble                     |Execution time | 
 | ------------|:--------------------------:|:------------------------------:|:----------------------------------:|:-------------:|
 | 16/10/2023| Task 3 Preprocess data| Using jupiter| No| No|
+| 24/10/2023| Task 6 Visuallize Data| Install Power BI| Done| 30m|
 
 
 ## Hoai's Processing
