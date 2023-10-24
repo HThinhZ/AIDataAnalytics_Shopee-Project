@@ -1,0 +1,22 @@
+Lưu
+
+Quân: Phân tích đối thủ
+1. Xác định đối thủ.
+ + Đã lấy ra 20 shop lớn nhất.
+2. Phân tích sản phẩm và khách hàng
+ + Loại sản phẩm bán chạy nhất của từng shop và giá trị trung bình của sản phẩm.
+ + Rating trung bình của từng shop trong nhóm đó. => Thấy được sự quan trọng của Rating
+ + 
+3. Thị phần và tăng trưởng.
+ - Thị phần:
+    + Đối thủ đó chiếm bao nhiêu phần trăm thị phần thị trường của 20 shop.
+    + Thị phần của họ ổn định hay biến đổi thường xuyên?
+    + Họ có chiếm lĩnh một phân khúc thị trường cụ thể nào không?
+ - Tăng trưởng:
+    + Tăng trưởng đối thủ là bao nhiêu(trong thời gian dữ liệu thu thập được), tính theo giá trị phần trăm ?
+    + Họ đã tăng được lợi nhuận ròng như thế nào trong vài năm qua ?
+    + Tỷ lệ lợi nhuận so với doanh số bán hàng của họ là bao nhiêu?
+4. Xem xét xu hướng thị trường:
+ - Xem số lượng loại sản phẩm qua từng tuần bán được là bao nhiêu ?
+ - Vì lượng dữ liệu thu thập được trong giai đoạn 10/2023 - 12/2023 là mùa đông nên xem các sản phẩm mùa đông nào được ưa chuộng.
+ - 
