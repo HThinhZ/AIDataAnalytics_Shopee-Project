@@ -720,4 +720,48 @@ links = shopee.links
 # df = shopee_data.crawl_multiple_pages(2,page_url)
 # df.to_csv('page.csv',index=False,header=True,encoding="utf-8-sig")
 
+# <codecell>
+# import math
+# n = 7/2
+# print(math.floor(n))
+
+# for i in range(0,4,2):
+#     print(i)
+    
+# i = 0
+# if (i == 0) | (i == 1) :
+#     print(i)
+# from Settings import *
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from time import sleep
+# import random 
+
+# def click_button(driver,xpath):
+#     driver.find_element(By.XPATH,xpath).click()
+#     sleep(random.uniform(1, 2))
+
+# # Launch browser
+# driver = webdriver.Edge()
+
+# # Open the webpage
+# driver.maximize_window()
+# driver.get("https://shopee.vn/%C3%81o-Kho%C3%A1c-Nam-AVIANO-Cao-C%E1%BA%A5p-Ch%E1%BB%91ng-N%C6%B0%E1%BB%9Bc-Ch%E1%BB%91ng-Gi%C3%B3-Kh%C3%A1ng-B%E1%BB%A5i-T%E1%BB%91t-Ch%E1%BB%91ng-N%E1%BA%AFng-%C3%81o-Kho%C3%A1c-Gi%C3%B3-Nam-C%C3%B3-M%C5%A9-Th%C3%A1o-R%E1%BB%9Di-Ti%E1%BB%87n-L%E1%BB%A3i-i.40342563.22880580807")
+# sleep(random.uniform(5, 6))
+# driver.find_element(By.NAME, "loginKey").send_keys(USERNAME)
+# sleep(random.uniform(1, 2))
+# driver.find_element(By.NAME, "password").send_keys(PASSWORD)
+# sleep(random.uniform(1, 2))
+# click_button(driver,LOGIN_BUTTON)
+# # Wait for JavaScript to load
+# driver.implicitly_wait(10)
+
+# # Find the div element containing the desired text
+# div_element = driver.find_element(By.CSS_SELECTOR, "div.flex")
+# texts = div_element.find_element(By.XPATH, ".//div[contains(text(), 'sản phẩm có sẵn')]").text
+
+# print(texts)
+
+# # Close the browser
+# driver.quit()
 
