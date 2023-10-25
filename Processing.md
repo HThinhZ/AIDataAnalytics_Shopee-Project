@@ -48,6 +48,9 @@
 | 12/10/2023  | Task 1: Crawl Data         | Try using Scrapy Selenium to crawl   | This library is out of date, get error while run     |       1h      |
 | 13/10/2023  | Task 1: Crawl Data         | Using API    |With Shoppe, the platform block users from accessing the API. Sendo and Tiki allow it     |       1h      |
 | 14/10/2023  | Task 1: Crawl Data         | Using Scrapy Splash    | Can use this library to crawl web rendered from javascript     |       1h      |
+| 23/10/2023  | Task 1: Crawl Data         | Crawl lazada    | Test basic request      |       1h      |
+| 24/10/2023  | Task 1: Crawl Data         | Implement crawl on many shope    | Send many request -> meet capcha      |       1h      |
+| 14/10/2023  |     Task 1: Crawl Data     | Finish crawl shop info    | ok   |       1h      |
 
 
 ## Luu's Processing
