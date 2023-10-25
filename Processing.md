@@ -55,6 +55,9 @@
 | Date        | Task                       |  Content                       | Status/Trouble                     |Execution time | 
 | ------------|:--------------------------:|:------------------------------:|:----------------------------------:|:-------------:|
 | 12/10/2023  | Task 1: Crawl Data         |  Using Browsermob Proxy to get HAR file   | Proxy connection failed     |       0h      |
+| 23/10/2023  | Not doing         |     |      |       0h      |
+| 14/10/2023  | Not doing         |     |      |       0h      |
+| 15/10/2023  | Not doing         |     |      |       0h      |
 
 
 ## Son's Processing
