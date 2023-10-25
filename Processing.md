@@ -28,6 +28,9 @@
 | 19/10/2023  | Task 1: Crawl Data        |  Using threads to crawl multiprocessing => Improve crawl speed  |  Implementing     |       2h30      |
 | 20/10/2023  | Not doing        |  Busy in deadline    |  Not doing     |       0h      |
 | 21/10/2023  | Not doing        |  Lazy :)))   |  Not doing     |       0h      |
+| 22/10/2023  | Task 1: Crawl Data         |  Write sequential code to crawl data   |  Because threading met a lot of trouble     |       3h30      |
+| 23/10/2023  | Not doing        |  Lazy :)))   |  Not doing     |       0h      |
+| 22/10/2023  | Task 1: Crawl Data        |  Finish basic one shop  |  Need to be edited more    |       5h      |
 
 
 ## Quan's Processing
