@@ -75,4 +75,4 @@
 | 23/10/2023  | Task 1: Crawl Data         | Finishing Selenium object    | Still waiting for an "IP rotation" method   |       6h      |
 | 24/10/2023  | Task 1: Crawl Data         | Improvement Selenium object    | Nothing to say   |       4h      |
 | 25/10/2023  | Task 1: Crawl Data         | Looking for "IP rotation" method    | No money   |       10h      |
-| 26/10/2023  | Task 1: Crawl Data         | Try something with things I've already had    |  ~   |       ~      |
+| 26/10/2023  | Not doing         |     |      |       0h      |
