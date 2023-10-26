@@ -67,4 +67,12 @@
 
 | Date        | Task                       |  Content                       | Status/Trouble                     |Execution time | 
 | ------------|:--------------------------:|:------------------------------:|:----------------------------------:|:-------------:|
-
+| 18/10/2023  | Task 1: Crawl Data         | Set up srcapy.spider object   | Fine     |       6h      |
+| 19/10/2023  | Task 1: Crawl Data         | Understand thier API    | Aggressive with bot    |       6h      |
+| 20/10/2023  | Task 1: Crawl Data         | Solve "bot" problem    | Solved (acceptable level)    |       6h      |
+| 21/10/2023  | Task 1: Crawl Data         | Solve "Human spam request"    | Still finding a way to rotate my IP      |       6h      |
+| 22/10/2023  | Not doing         |     |      |       0h      |
+| 23/10/2023  | Task 1: Crawl Data         | Finishing Selenium object    | Still waiting for an "IP rotation" method   |       6h      |
+| 24/10/2023  | Task 1: Crawl Data         | Improvement Selenium object    | Nothing to say   |       4h      |
+| 25/10/2023  | Task 1: Crawl Data         | Looking for "IP rotation" method    | No money   |       10h      |
+| 26/10/2023  | Task 1: Crawl Data         | Try something with things I've already had    |  ~   |       ~      |
