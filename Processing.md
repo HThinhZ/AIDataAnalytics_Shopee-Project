@@ -31,6 +31,12 @@
 | 22/10/2023  | Task 1: Crawl Data         |  Write sequential code to crawl data   |  Because threading met a lot of trouble     |       3h30      |
 | 23/10/2023  | Not doing        |  Lazy :)))   |  Not doing     |       0h      |
 | 24/10/2023  | Task 1: Crawl Data        |  Finish basic one shop  |  Need to be edited more    |       5h      |
+| 25/10/2023  | Not doing        |  Lazy :)))   |  Not doing     |       0h      |
+| 26/10/2023  | Task 1: Crawl Data       |  Test code to crawl data   |   Need to be edited more    |       30      |
+| 27/10/2023  | Task 1: Crawl Data       |  Test code to crawl data   |   Need to be edited more    |       2h30      |
+| 28/10/2023  | Not doing        |  Lazy :)))   |  Not doing     |       0h      |
+| 29/10/2023  | Task 1: Crawl Data, Task 2: Store data       |  Test code to crawl data and store data  |   Need to be edited more   |       1h30    |
+| 30/10/2023  | Task 1: Crawl Data, Task 2: Store data         |  Test code to crawl data and store data  |   Need to be edited more   |       3h30    |
 
 
 ## Quan's Processing
