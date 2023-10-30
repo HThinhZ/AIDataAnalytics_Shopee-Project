@@ -51,7 +51,14 @@
 | 14/10/2023  | Task 1: Crawl Data         | Using Scrapy Splash    | Can use this library to crawl web rendered from javascript     |       1h      |
 | 23/10/2023  | Task 1: Crawl Data         | Crawl lazada    | Test basic request      |       1h      |
 | 24/10/2023  | Task 1: Crawl Data         | Implement crawl on many shope    | Send many request -> meet capcha      |       1h      |
-| 14/10/2023  |     Task 1: Crawl Data     | Finish crawl shop info    | ok   |       1h      |
+| 25/10/2023  |     Task 1: Crawl Data     | Finish crawl shop info    | ok   |       1h      |
+| 26/10/2023  |     Task 1: Crawl Data     | Crawl all shope    | Get error beacause capcha   |       1h      |
+| 27/10/2023  |     Task 1: Crawl Data     | Fix bug  capcha | Cannot fix   |       1h      |
+| 28/10/2023  |     Task 1: Crawl Data     | Fix bug  capcha    | Cannot fix   |       1h      |
+| 29/10/2023  |     Not Doing     | Not Doing    | Not Doing   |       0h      |
+| 30/10/2023  |     Not Doing     | Not Doing    | Not Doing   |       0h      |
+
+
 
 
 ## Luu's Processing
