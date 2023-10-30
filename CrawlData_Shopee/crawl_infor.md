@@ -7,8 +7,8 @@
 |Giá gốc                            |        X       |      X      |
 |Giá khuyến mãi                     |        X       |      X      |
 |Số lượng đánh giá                  |        X       |      X      |
-|Số lượt bán                        |        X       |             |
-|Lượt tương tác                     |                |             |
-|Số lượng có sẵn                    |                |             |
-|Chi tiết sản phẩm                  |                |             |
-|Số lượng bình luận                 |                |             |
+|Số lượt bán                        |        X       |      X      |
+|Lượt tương tác                     |        X       |      X      |
+|Số lượng có sẵn                    |        X       |      X      |
+|Chi tiết sản phẩm                  |        X       |      X      |
+|Số lượng bình luận                 |        X       |      X      |

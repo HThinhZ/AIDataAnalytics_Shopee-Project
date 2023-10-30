@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['Task1_Sequential_Collect.py', 'Task1_Parallel_Collect.py', 'Settings.py', 'test.py', 'store_code.py']
+recent_files = ['Task1_Sequential_Collect.py', 'Task2_Store.py', 'Settings.py', 'Task1_Parallel_Collect.py', 'test.py', 'store_code.py']
 
 [main]
 version = 0.2.0
