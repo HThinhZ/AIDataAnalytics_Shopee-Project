@@ -47,7 +47,7 @@
 | 24/10/2023| Task 5 Analyze data | Raise problems that need to be solved in data analysis| Done| 1h|
 | 27/10/2023| Not doing | Busy | No working | 0h|
 | 30/10/2023| Not doing | Busy | No working | 0h|
-
+|4/11/2024| data processing|Drop columns unnecessary| Done| 2h|
 
 ## Hoai's Processing
 
