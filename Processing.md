@@ -65,6 +65,12 @@
 | 28/10/2023  |     Task 1: Crawl Data     | Fix bug  capcha    | Cannot fix   |       1h      |
 | 29/10/2023  |     Not Doing     | Not Doing    | Not Doing   |       0h      |
 | 30/10/2023  |     Not Doing     | Not Doing    | Not Doing   |       0h      |
+| 31/10/2023  |     Task 1: Crawl Data     | Try using ip to avoid capcha    | Have trouble   |       1h      |
+| 01/11/2023  |    Task 1: Crawl Data     | Create database   | ok  |       2h      |
+| 02/11/2023  |     Task 1: Crawl Data     | Use Colab + Access Mongodb from code  | Ok   |       7h      |
+| 03/11/2023  |     Not Doing     | Not Doing    | Not Doing   |       0h      |
+| 04/11/2023  |     Not Doing     | Not Doing    | Not Doing   |       0h      |
+| 05/11/2023  |     Not Doing     | Not Doing    | Not Doing   |       0h      |
 
 
 
