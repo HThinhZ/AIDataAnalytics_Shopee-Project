@@ -48,6 +48,7 @@
 | 27/10/2023| Not doing | Busy | No working | 0h|
 | 30/10/2023| Not doing | Busy | No working | 0h|
 |4/11/2024| data processing|Drop columns unnecessary| Done| 2h|
+|5/11/2024| data processing| get color columns| Done| 2h|
 
 ## Hoai's Processing
 
