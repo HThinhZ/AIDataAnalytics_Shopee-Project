@@ -20,3 +20,12 @@ Quân: Phân tích đối thủ
  - Xem số lượng loại sản phẩm qua từng tuần bán được là bao nhiêu ?
  - Vì lượng dữ liệu thu thập được trong giai đoạn 10/2023 - 12/2023 là mùa đông nên xem các sản phẩm mùa đông nào được ưa chuộng.
  - 
+
+
+ Hoài
+ 1. Có sự khác nhau giữa giá bán, số lượng bán, đánh giá của các shop giữa 2 nền tảng hay không? 
+ ->  nhận biết sự khác nhau trong chiến lược kinh doanh của các cửa hàng trên hai nền tảng này.
+
+ 2. Ở các ngày sale số lượng bán, giá có thay đổi không?
+ -> Các ngày sale có phải là cơ hội tốt để tăng lợi nhuận hay không
+
