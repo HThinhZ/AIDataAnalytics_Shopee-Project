@@ -1,0 +1,23 @@
+Đầu tiên, mình sẽ tưởng tượng mình đang là một nhà khởi nghiệp về quần áo => Mình phải làm gì để có thể thu lại được lợi nhuận cao.
+#####
+Câu hỏi đầu tiên: Thì chắc chắn mình cần biết được mình cần bán được những sản phẩm nào?
+=> Đơn giản, mình chỉ cần đi vào 20 shop Mall đứng đầu mình sẽ lấy những sản phẩm bán chạy trên cả nền tảng shopee và lazada
+Câu hỏi thứ 2: Mình nên bán cái sản phẩm ở trên nền tảng là shopee hay lazada ???
+=> Phải chứng mình bằng data: 
++ Tất cả sản phẩm bán chạy đều trùng nhau
++ Mỗi sản phẩm bán ở nền tảng có thể khác nhau
+Câu hỏi thứ 3: Xem xét chiến lược sale của từng sản phẩm đó. (Mình dựa vào is_on_flash_sale), mã giảm giá
+Câu hỏi thứ 4: Phân tích tên (Có cả shop cùi và shop xịn), mô tả (Shop xịn) 
+=> Phân tích tên: 
+Ý tưởng: Token nó ra theo kiểu 1,2,3,4,...
+Rồi mình sẽ count nó => tz nào keyword
+=> Mình sẽ token top 50 sản phẩm của mỗi shop mall => Tìm ra được keyword đứng đầu => Mình sẽ lấy 1 vài top đầu sản phẩm của mỗi shop mall xem thật sự nó có ko????
+(Bỏ những từ mang tính thời trang như: Quần đùi,...)
+=> Mình sẽ token toàn bộ sản phẩm cùa tất cả các phẩm => Lọc ra mấy từ ít xuất hiện => Xem xét 
+=> Làm token toàn bộ sản phẩm của các shop cùi  => Tìm ra được keyword đứng đầu => Mình sẽ áp vào những sản phẩm top đầu của mỗi shop mall xem nó có hay ko???
+
+Câu hỏi thứ 5: Phân tích mô tả, tên, viết và trình bày mô tả cho sản phẩm đó ntn
+Mình có keyword ở mỗi category(Quần đùi, ...)
+#####
+
+
